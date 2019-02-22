@@ -1,3 +1,6 @@
 [submodule "example"]
 	path = example
 	url = https://github.com/cake-build/example.git
+[submodule "caption-this-template"]
+	path = caption-this-template
+	url = https://github.com/githubtraining/caption-this-template.git
